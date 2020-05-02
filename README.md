@@ -1,4 +1,4 @@
-# APM466 A1 by Jincheng Leng.
+# APM466 A1 by Jincheng Leng
 
 ## Aims
 This projects intend to construct yield curve for Canadian Government Bond.
